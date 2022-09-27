@@ -25,5 +25,4 @@ function DogPics() {
     </div>
   );
 }
-
 export default DogPics;
